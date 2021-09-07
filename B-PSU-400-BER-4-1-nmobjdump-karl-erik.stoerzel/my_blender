@@ -1,0 +1,11 @@
+#! /bin/bash
+
+DIFF=$(diff <(cat myobj.txt) <(cat obj.txt))
+if [ "$DIFF" != "" ]; then
+    echo -e "ls: Got: $DIFF\n"
+else {
+    echo -e "ls: PASSED\n"
+}
+echo "-----------------------------------------------------"
+fi
+                 

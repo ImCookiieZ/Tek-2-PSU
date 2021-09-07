@@ -1,0 +1,3 @@
+/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-malloc-karl-erik.stoerzel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-malloc-karl-erik.stoerzel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-malloc-karl-erik.stoerzel/cmake-build-debug/CMakeFiles/B_PSU_400_BER_4_1_malloc_karl_erik_stoerzel.dir

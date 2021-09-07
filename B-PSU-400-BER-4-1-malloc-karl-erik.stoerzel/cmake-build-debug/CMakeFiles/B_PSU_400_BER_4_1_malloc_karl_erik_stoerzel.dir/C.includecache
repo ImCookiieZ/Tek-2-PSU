@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-malloc-karl-erik.stoerzel/include/malloc_structs.h
+unistd.h
+-
+
+/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-malloc-karl-erik.stoerzel/src/malloc.c
+string.h
+-
+stdio.h
+-
+../include/malloc_structs.h
+/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-malloc-karl-erik.stoerzel/include/malloc_structs.h
+

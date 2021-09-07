@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel">
+				<Option output="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel/fast">
+				<Option output="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/include/error_handling.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/include/file_parse.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/include/flags.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/include/get_type.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/include/help.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/include/parser.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/include/sort.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/src/error_handling.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/src/file_parse.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/src/get_type.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/src/help.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/src/main.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/src/parser.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/nm/src/sort.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/include/file_header64.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/include/file_sections64.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/include/flags.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/include/help.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/include/parse_file.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/include/parser.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/src">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/src/file_header64.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/src/file_sections64.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/src/help.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/src/main.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/src/parse_file32.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/src/parse_file64.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/objdump/src/parser.c">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/tmp/flag.h">
+			<Option target="B_PSU_400_BER_4_1_nmobjdump_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-nmobjdump-karl-erik.stoerzel/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

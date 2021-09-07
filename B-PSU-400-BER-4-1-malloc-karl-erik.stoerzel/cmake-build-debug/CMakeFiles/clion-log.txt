@@ -1,0 +1,4 @@
+/home/CookiieZ/Downloads/clion-2020.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/bin/gcc -G "CodeBlocks - Unix Makefiles" /home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-malloc-karl-erik.stoerzel
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/CookiieZ/Epitech/tek2/PSU/B-PSU-400-BER-4-1-malloc-karl-erik.stoerzel/cmake-build-debug
